@@ -6,3 +6,4 @@ Created a new branch.
 
 Merged the new branch to master.
 
+Add a .test.csv file to test gitignore
