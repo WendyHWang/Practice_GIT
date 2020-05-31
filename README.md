@@ -6,4 +6,6 @@ Created a new branch.
 
 Merged the new branch to master.
 
-Add a .test.csv file to test gitignore
+Add a .test.csv file to test gitignore.
+
+Git rm the unwanted files.
