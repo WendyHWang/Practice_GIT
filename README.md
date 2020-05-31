@@ -11,3 +11,4 @@ Add a .test.csv file to test gitignore.
 Git rm the unwanted files.
 
 Test merge conflict, this is from branch 1
+Created a branch to test merge conflict. This is from branch 2.
